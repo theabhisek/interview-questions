@@ -12,39 +12,39 @@
 #### 10.V8 engine
 #### 11.Errors and types with examples.
 
-Day 2 :  Javascript variables and loops
- What are variables?
-Scopes -> block, function and global.
-Data types.
-Conditional -> Operators, statements and switch.
-Loops -> for, while, do while, for in and for loops.
-Break / continue.
-Functions-> normal , arrow, IIFEs, anonymous and built in functions.
-Function parameters-> default and rest. 
-Synchronous and asynchronous programming.
-Strict mode.
 
-Day 3 : Javascript arrays , objects and strings
-Array properties.
-Object properties.
-String properties.
-Slice, splice and split etc.
-Shift ,unshift , push and pop etc. 
-deep copy and shallow copy.
+#### 12.What are variables?
+#### 13. Scopes -> block, function and global.
+#### 14. Data types.
+#### 15.Conditional -> Operators, statements and switch.
+#### 16.Loops -> for, while, do while, for in and for loops.
+##### 17.Break / continue.
+##### 18.Functions-> normal , arrow, IIFEs, anonymous and built in functions.
+#### 19.Function parameters-> default and rest. 
+#### 20.Synchronous and asynchronous programming.
+#### 21.Strict mode.
 
-Day 4 : Javascript higher order functions ,Explicit binding,  asynchronous 
-Map, filter and reduce.
-Prototype and prototype chaining. 
-Prototype inheritance.
-Call, apply and bind.
-Callback function and callback hell. 
-Promises and method.  
-Async and await. 
-Then, catch and finally.
+#### 22.Javascript arrays , objects and strings
+#### 24 Array properties.
+#### 25.Object properties.
+#### 26.String properties.
+#### 27.Slice, splice and split etc.
+#### 28.Shift ,unshift , push and pop etc. 
+#### 29.deep copy and shallow copy.
+
+#### 30. Javascript higher order functions ,Explicit binding,  asynchronous 
+#### 31.Map, filter and reduce.
+#### 36.Prototype and prototype chaining. 
+#### 37.Prototype inheritance.
+#### 38.Call, apply and bind.
+#### 39.Callback function and callback hell. 
+#### 40.Promises and method.  
+#### 41.Async and await. 
+#### 42.Then, catch and finally.
 
 
-Day 5 : Javascript hosting, closures, timerFunction, window and apis 
-Hosting and temporal deadzone.
+#### 43. Javascript hosting, closures, timerFunction, window and apis 
+#### 44. Hosting and temporal deadzone.
 Scopes and function stack
 Fetch, axios and  ajax.
 Closures and where we use them in our code.
