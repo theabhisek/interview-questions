@@ -1,6 +1,21 @@
 <h1> <center> Git and Github<center></h1>
 
 ## Introduction
+<a href=https://www.gitkraken.com/learn/git/commands> Git commands click her</a>
+ <br>
+ 
+<a href=https://www.gitkraken.com/learn/git/definitions>Git definitions click her</a>
+<br>
+
+<a href=https://www.gitkraken.com/learn/git/problems>Git problems click her</a>
+<br>
+
+<a href=https://www.gitkraken.com/learn/git/best-practices>Git best-practices click her</a>
+<br>
+
+
+
+ 
 ### 1. What is git?
     A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together. As developers make changes to the project, any earlier version of the project can be recovered at any time.
     Developers can review project history to find out:
